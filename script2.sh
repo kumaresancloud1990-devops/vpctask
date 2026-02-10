@@ -4,3 +4,4 @@ echo Main branch change
 =======
 echo Rebase update
 >>>>>>> 5020dae (Rebase branch commit)
+echo Main branch change1
